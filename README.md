@@ -33,4 +33,4 @@ Created by Poojitha Swarupa
 This project is for learning and personal use only.
 ## 🔗 Live Demo
 
-[Click here to view the live site](https://poojitha-swarupa.github.io/connect-sphere/)
+[Click here to view the live site](https://poojithadoki.github.io/Connect-Sphere/)
